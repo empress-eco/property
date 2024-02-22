@@ -1,16 +1,17 @@
 <div align="center">
   <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Project Logo">
-</div>
 
-[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://empress.eco/)
+  [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://empress.eco/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/empress-eco/property)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/empress-eco/property/blob/main/LICENSE)
 
 A comprehensive and user-friendly property management tool, offering unique features for enhanced productivity, oversight, and efficiency. 
 
-- [Documentation](https://empress.eco/)
-- [Report Bug](https://github.com/empress-eco/property/issues)
-- [Request Feature](https://github.com/empress-eco/property/issues)
+[Documentation](https://empress.eco/) |  [Report Bug](https://github.com/empress-eco/property/issues) | [Request Feature](https://github.com/empress-eco/property/issues)
+
+</div>
+
+
 
 ## 🏢 About The Project
 
